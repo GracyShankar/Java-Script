@@ -1,1 +1,1 @@
-random
+greeting
