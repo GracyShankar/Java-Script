@@ -1,1 +1,1 @@
-score2
+random
